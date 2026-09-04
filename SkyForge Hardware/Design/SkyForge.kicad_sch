@@ -5,7 +5,8 @@
 	(uuid "d0e3d3ce-06ea-45b2-a9fc-fe52fe8e03d4")
 	(paper "A4")
 	(title_block
-		(title "SkyForge Controller")
+		(title "SkyForge Controller SCH")
+		(date "2026-09-04")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x04"

@@ -1,0 +1,9 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"MODULE_ESP32_DEVKIT_V1";1;"ESP32-DEVKIT-V1";;;
+2;"SW4,SW2,SW1,SW3";"SW_PUSH-12mm";4;"SW_Push";;;
+3;"RV1";"Potentiometer_Alps_RK09K_Single_Horizontal";1;"R_Potentiometer";;;
+4;"R3,R2,R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";3;"220";;;
+5;"J3";"PinSocket_1x05_P2.54mm_Vertical";1;"PS2 Joystick";;;
+6;"J2";"PinSocket_1x04_P2.54mm_Vertical";1;"0.96" SSD1306 OLED";;;
+7;"J1";"PinSocket_1x08_P2.54mm_Vertical";1;"GY-521 MPU6050";;;
+8;"D1";"LED_D5.0mm-4_RGB";1;"LED_RGBK";;;
